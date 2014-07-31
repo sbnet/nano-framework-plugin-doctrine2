@@ -1,0 +1,20 @@
+{
+    "name": "sbnet/nano-framework-plugin-doctrine2",
+    "type": "library",
+    "description": "The Nano Framework doctrine2 plugin",
+    "homepage": "http://www.nano-framework.com",
+    "license": "GPL-2.0",
+    "authors": [
+        {
+            "name": "Stephane BRUN",
+            "email": "stephane@sbnet.fr",
+            "homepage": "http://www.sbnet.fr"
+        }
+    ],
+
+    "require": {
+        "php": ">=5.3.3",
+        "sbnet/nano-framework": "dev-master",
+        "doctrine/orm": "2.5.*@dev"
+    }
+}
